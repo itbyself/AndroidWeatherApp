@@ -1,0 +1,12 @@
+<resources>
+    <color name="purple_200">#81C784</color> <!-- Мягкий зеленый -->
+    <color name="purple_500">#43A047</color> <!-- Яркий зеленый -->
+    <color name="purple_700">#388E3C</color> <!-- Темный зеленый -->
+    <color name="teal_200">#80CBC4</color> <!-- Мягкий бирюзовый -->
+    <color name="teal_500">#00695C</color> <!-- Темный бирюзовый для кнопок -->
+    <color name="teal_700">#004D40</color> <!-- Еще более темный бирюзовый -->
+    <color name="black">#212121</color> <!-- Темный почти черный -->
+    <color name="white">#FFFFFF</color> <!-- Белый цвет -->
+    <color name="gray_light">#BDBDBD</color> <!-- Светлый серый -->
+    <color name="gray_dark">#616161</color> <!-- Темный серый текст -->
+</resources>
